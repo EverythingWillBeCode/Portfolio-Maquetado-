@@ -7,6 +7,15 @@ html {
 }
 
  
+.linkedin:hover {
+  color: red;
+
+}
+
+.linkedin{
+  text-decoration: none;
+}
+
 
 body {
   margin: 0;

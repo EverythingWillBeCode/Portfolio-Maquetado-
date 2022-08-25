@@ -9,13 +9,11 @@ html {
  
 .linkedin:hover {
   color: red;
-
 }
 
-.linkedin{
-  text-decoration: white;
+a:link {
+  text-decoration: none;
 }
-
 
 body {
   margin: 0;
